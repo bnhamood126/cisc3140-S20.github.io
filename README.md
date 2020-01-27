@@ -23,7 +23,7 @@ Weekly Assignments are due at the end of each week, dates listed below.
 
 |No.|Due|Description| Link to Submit |
 | - | -- | --------- | ------------- |
-|1.| 1/30 | Git Repository Set up| |
+|1.| 1/30 | Deentralized VCS practice with Git| |
 |2.| 2/6 |  Writing assignment| |
 |3.| 2/13 | Undefined| |
 |4.| 2/20 | Undefined| |
