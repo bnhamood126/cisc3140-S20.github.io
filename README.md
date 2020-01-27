@@ -23,8 +23,8 @@ Weekly Assignments are due at the end of each week, dates listed below.
 
 |No.|Due|Description| Link to Submit |
 | - | -- | --------- | ------------- |
-|1.| 1/30 | Decentralized VCS practice with Git| |
-|2.| 2/6 |  Writing assignment| |
+|1.| 1/30 | Decentralized VCS practice with Git|[A1][1] |
+|2.| 2/6 | Writing assignment | |
 |3.| 2/13 | Undefined| |
 |4.| 2/20 | Undefined| |
 |5.| 2/27 | Write a program in Scheme| |
@@ -41,8 +41,8 @@ Weekly Assignments are due at the end of each week, dates listed below.
 
 ### Grading Rubric
 
-The assignments will be graded on a scale of *strong effort* and *weak effort*. Late assignments means submitting any time after the specified due date, and will limited to score of one regardless of the level of effort. Not turning in on time will be given a score of zero. Late assignments will be accepted until the close of business on 4/30/2020.
-All assignments combined are 20% of your final grade.
+The assignments will be graded on a scale of *strong effort* and *weak effort*. Late assignments means submitting any time after the specified due date, and will limited to minimal score regardless of the level of effort. Not turning in on time will be given a score of zero. Late assignments will be accepted until the close of business on 4/30/2020.
+All assignments combined are equal to 20% of your final grade.
 
 Weak effort looks like someone who rushed to get the work done. For example,
 
@@ -57,3 +57,6 @@ Strong effort exhibits work that surpasses weak effort, such as:
 * Goes above and beyond what is explicitly stated
 
 While you may discuss your work with class colleagues, submit your own work. Each task comes with specific requirements. Part of your "job" is be able to analyze what's being asked beyond the obvious.
+
+
+[1]: https://docs.google.com/forms/d/e/1FAIpQLSc6gi2d5dx3cyg9nReS3QZe_IMMJAZ5NfIqyyDcs6vlLQtIaQ/viewform
