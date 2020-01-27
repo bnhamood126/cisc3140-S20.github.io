@@ -35,7 +35,7 @@ Weekly Assignments are due at the end of each week, dates listed below.
 |10.| 4/2 | Continuous Integration practice| |
 |11.| 4/8 | Write another program in Scheme| |
 |12.| 4/30| Database querying practice| |
-|13.| 5/7 | Last individual homework assignment| |
+|13.| 5/7 | Undefined | |
 |14.| 5/14| Group Project submission| |
 |15.| TBD |Individual presentation| |
 
