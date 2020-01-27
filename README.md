@@ -21,20 +21,23 @@ Weekly Assignments are due at the end of each week, dates listed below.
 
 ### Due Dates
 
-1. 1/30 Git Repository Set up
-2. 2/6 Writing assignment
-3. 2/13 Undefined
-4. 2/20 Undefined
-5. 2/27 Write a program in Scheme
-6. 3/5 Linux Terminal Command practice
-7. 3/12 Centralized VCS practice with Subversion
-8. 3/19 Separating conntent from presentation (most likely with LaTeX)
-9. 3/26 Create a API Client
-10. 4/2 Continuous Integration practice
-11. 4/8 Write another program in Scheme
-12. 4/30 Database querying practice
-13. 5/7 Last homework assignment
-14. 5/14 Group Project submission
+|No.|Due|Description| Link to Submit |
+| - | -- | --------- | ------------- |
+|1.| 1/30 | Git Repository Set up| |
+|2.| 2/6 |  Writing assignment| |
+|3.| 2/13 | Undefined| |
+|4.| 2/20 | Undefined| |
+|5.| 2/27 | Write a program in Scheme| |
+|6.| 3/5  | Linux Terminal Command practice| |
+|7.| 3/12 | Centralized VCS practice with Subversion| |
+|8.| 3/19 | Separating conntent from presentation (most likely with LaTeX)| |
+|9.| 3/26 | Create a API Client| |
+|10.| 4/2 | Continuous Integration practice| |
+|11.| 4/8 | Write another program in Scheme| |
+|12.| 4/30| Database querying practice| |
+|13.| 5/7 | Last individual homework assignment| |
+|14.| 5/14| Group Project submission| |
+|15.| TBD |Individual presentation| |
 
 ### Grading Rubric
 
