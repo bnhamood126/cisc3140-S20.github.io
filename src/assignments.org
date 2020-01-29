@@ -1,0 +1,36 @@
+* Assignment 1 - Fill out Survey
+
+Please set up your GitHub Repository in order to answer the survey questions. Reference the git book if neccessary https://git-scm.com/book/en/v2 and/or https://guides.github.com/activities/hello-world/ 
+
+* Assignment 2 - Writing Assignment
+** Part 1 - Writing a bug ticket
+
+Pick a situation or bug for some software you've used. Write a ticket request to a software engineer describing the bug you encountered. Try to propose a solution.
+
+*** Possibly helpful reading
+- Background Reading: https://producingoss.com/en/bug-tracker.html 
+- Advice: https://www.chapterthree.com/blog/how-to-write-an-effective-bug-report-issue-or-ticket
+- Advice: https://testlio.com/blog/the-ideal-bug-report/
+
+
+** Part 2 - Research a Company
+
+Okay to work in small groups of 4-5 or individually.  Include all names of your group when you submit.
+
+The write up will be about a company that hires software engineers such as the companies mentioned in class or other companies of interest. Research thoroughly to find out what their company is about, i.e. what problem are they solving? How does their software engineering team help with that mission or vision. 
+
+Find as much as you can about their tech stack/architecture/teams/languages/etc. Include recent news articles about their engineering team(s) or infrastructure. 
+
+Aim for as much detail as you can including notes on your research process. Such as, what queries did you use? What sources were more helpful. Be as thoughtful and thorough as you can. 
+
+The write up will be shared with the class in the class repository, this will be used for assignment 3. Format nicely to the best of your abilities/interest.
+
+* Assignment 3 - Planning exercise.
+
+Select one of the companies from the reports the class has prepared.  This is an individual writing exericse. Write a plan on how you would prepare for a job interview there. Please describe any skills you feel you are qualified for, or unqualified with that position. For the ones you're unqualified for, how would you become more qualified? Since you may not have knowledge and experience in some areas, how would you attempt to learn? The more specific the better.
+
+It can be based off a job posting you find, or you may create one. The objective of this assignment is meant as an opportunity to practice goal setting and making a plan and articulating it in writing.
+
+For those who want to give an individual presentation in class, please write a brief abstract an outline.
+
+

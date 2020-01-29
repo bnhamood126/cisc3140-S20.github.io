@@ -24,8 +24,8 @@ Weekly Assignments are due at the end of each week, dates listed below.
 |No.|Due|Description| Link to Submit |
 | - | -- | --------- | ------------- |
 |1.| 1/30 | Decentralized VCS practice with Git|[A1][1] |
-|2.| 2/6 | Writing assignment | |
-|3.| 2/13 | Undefined| |
+|2.| 2/6 | Writing assignments | |
+|3.| 2/13 | Writing assignment | |
 |4.| 2/20 | Undefined| |
 |5.| 2/27 | Write a program in Scheme| |
 |6.| 3/5  | Linux Terminal Command practice| |
